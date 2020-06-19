@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pigsterchurn.github.io/blog</id>
-    <title>Pigster Games Blog</title>
+    <title>Pigster Churn Blog</title>
     <updated>2020-06-12T06:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pigsterchurn.github.io/blog"/>
-    <subtitle>The best place to stay up-to-date with the latest Pigster Games news and events.</subtitle>
-    <logo>https://pigsterchurn.github.io/img/logo.png</logo>
-    <rights>Copyright © 2020 Pigster Games</rights>
+    <subtitle>The best place to stay up-to-date with the latest Pigster Churn news and events.</subtitle>
+    <logo>https://pigsterchurn.github.io/img/logo2.png</logo>
+    <rights>Copyright © 2020 Pigster Churn</rights>
     <entry>
         <title type="html"><![CDATA[Goodbye Clay]]></title>
         <id>https://pigsterchurn.github.io/blog/2020/06/12/goodbye-clay.html</id>

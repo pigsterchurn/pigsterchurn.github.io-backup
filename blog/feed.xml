@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>Pigster Games Blog</title>
+        <title>Pigster Churn Blog</title>
         <link>https://pigsterchurn.github.io/blog</link>
-        <description>The best place to stay up-to-date with the latest Pigster Games news and events.</description>
+        <description>The best place to stay up-to-date with the latest Pigster Churn news and events.</description>
         <lastBuildDate>Fri, 12 Jun 2020 06:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
-            <title>Pigster Games Blog</title>
-            <url>https://pigsterchurn.github.io/img/logo.png</url>
+            <title>Pigster Churn Blog</title>
+            <url>https://pigsterchurn.github.io/img/logo2.png</url>
             <link>https://pigsterchurn.github.io/blog</link>
         </image>
-        <copyright>Copyright © 2020 Pigster Games</copyright>
+        <copyright>Copyright © 2020 Pigster Churn</copyright>
         <item>
             <title><![CDATA[Goodbye Clay]]></title>
             <link>https://pigsterchurn.github.io/blog/2020/06/12/goodbye-clay.html</link>
